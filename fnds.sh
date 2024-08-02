@@ -6,8 +6,3 @@ chinna
 mohan
 abhi
 naresh
-babu 
-kmpo
-l;lkkoj
-..nicnioj
-
