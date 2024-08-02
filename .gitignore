@@ -1,0 +1,4 @@
+#These files and directories are ignored.
+.classpath
+.settings
+/node_modules
